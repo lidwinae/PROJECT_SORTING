@@ -16,13 +16,13 @@ Daftar nama barang dan harganya ditampilkan dalam bentuk tabel yang memudahkan p
 SORT/
 ├── .idea/               
 ├── out/                 
-├── src/                 # Folder kode sumber Java (termasuk algoritma sorting)
-│   ├── sort/            # Package sort
-│   │   ├── BubbleSort.java  # Implementasi Bubble Sort (Descending)
-│   │   └── InsertionSort.java  # Implementasi Insertion Sort (Ascending)
-│   └── Main.java        # File utama untuk menjalankan aplikasi
+├── src/                         # Folder kode sumber Java (termasuk algoritma sorting)
+│   ├── sort/                    # Package sort
+│   │   ├── BubbleSort.java      # Implementasi Bubble Sort (Descending)
+│   │   └── InsertionSort.java   # Implementasi Insertion Sort (Ascending)
+│   └── Main.java                # File utama untuk menjalankan aplikasi
 ├── .gitignore           
-├── README.md            # Dokumentasi proyek
+├── README.md                    # Dokumentasi proyek
 └── SORT.iml  
 
 ## Deskripsi Kode
@@ -74,8 +74,8 @@ Harga Barang	: 2000
 
 ===============================
 Pengurutan Harga Barang
-oleh	: Lidwina Eleonora Dora
-NIM		: 235150707111019
+oleh  : Lidwina Eleonora Dora
+NIM   : 235150707111019
 ===============================
 
 Ascending dari kecil ke besar dengan Insertion Sort
