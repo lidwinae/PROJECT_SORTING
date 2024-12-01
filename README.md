@@ -14,15 +14,23 @@ Daftar nama barang dan harganya ditampilkan dalam bentuk tabel yang memudahkan p
 
 ## Struktur Proyek
 SORT/
+
 ├── .idea/               
 ├── out/                 
 ├── src/                         # Folder kode sumber Java (termasuk algoritma sorting)
+
 │   ├── sort/                    # Package sort
+
 │   │   ├── BubbleSort.java      # Implementasi Bubble Sort (Descending)
+
 │   │   └── InsertionSort.java   # Implementasi Insertion Sort (Ascending)
+
 │   └── Main.java                # File utama untuk menjalankan aplikasi
+
 ├── .gitignore           
+
 ├── README.md                    # Dokumentasi proyek
+
 └── SORT.iml  
 
 ## Deskripsi Kode
@@ -38,44 +46,74 @@ SORT/
 ## Contoh Output
 
 Aplikasi Pengurut Harga Barang
+
 dengan Insertion Sort dan Bubble Sort
+
 Lidwina Eleonora Dora - 235150707111019
 
+
+
 Masukkan jumlah barang:
+
 7
 
+
 Barang ke-1
+
 Nama Barang		: tisu
+
 Harga Barang	: 8000
 
+
 Barang ke-2
+
 Nama Barang		: air
+
 Harga Barang	: 5000
 
+
 Barang ke-3
+
 Nama Barang		: sabun
+
 Harga Barang	: 17000
 
+
 Barang ke-4
+
 Nama Barang		: mie
+
 Harga Barang	: 3000
 
+
 Barang ke-5
+
 Nama Barang		: deterjen
+
 Harga Barang	: 6000
 
+
 Barang ke-6
+
 Nama Barang		: tisu basah
+
 Harga Barang	: 20000
 
+
 Barang ke-7
+
 Nama Barang		: pasta gigi
+
 Harga Barang	: 2000
 
 ===============================
+
 Pengurutan Harga Barang
+
 oleh  : Lidwina Eleonora Dora
+
 NIM   : 235150707111019
+
 ===============================
 
 Ascending dari kecil ke besar dengan Insertion Sort
